@@ -1,8 +1,7 @@
 # Patrón de Diseño Memento
-
-Santiago Castrillon Galvis
-Jhon Edinson Rodriguez
-Jose Alejandro Roman
+Santiago Castrillon Galvis <br/>
+Jhon Edinson Rodriguez <br/>
+Jose Alejandro Roman <br/>
 
 
 ## 1. Explicación de la problemática
