@@ -5,7 +5,8 @@ Jose Alejandro Roman <br/>
 
 
 ## 1. Explicación de la problemática
-
+En este caso un escritor se encuentra escribiendo un libro con un titulo determinado en un inicio, y a medida que va redactando surgen nuevas ideas para que el titulo sea mas llamativo, esto sucede multiples veces y el autor va cambiando constantemente de titulo, sin embargo puede llegar al punto que el titulo nuevo no sea acorde a lo escrito en futuras paginas, por lo que se vuelve necesario poder restaurar los titulos anteriores.
+Debido a esto la mejor opción de patron de diseño es memento puesto que permite poder volver a estados anteriores del titulo ya que el autor puede crear una copia(memento) de estos tantas veces como guste, y no tendra problema de que estos titulos puedan ser modificados desde otra clase o siquiera ser vistos, ya que solo se pueden recuperar para cambiar el titulo del libro que es precisamente su unico fin.
 
 
 ## 2. Modelo de clases
